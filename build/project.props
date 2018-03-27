@@ -1,0 +1,15 @@
+<Project>
+
+  <Import Project="version.props" />
+
+  <PropertyGroup Label="Build">
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Package">
+    <Authors>Cagatay Kalan @ckalan</Authors>
+    <PackageProjectUrl>https://github.com/ckalan/Spec4Net/</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/ckalan/Spec4Net/blob/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+
+</Project>
