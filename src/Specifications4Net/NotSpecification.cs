@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using Exp = System.Linq.Expressions.Expression;
 
-namespace Spec4Net
+namespace Specifications4Net
 {
     public class NotSpecification<T> : AbstractSpecification<T>
     {

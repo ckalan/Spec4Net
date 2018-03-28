@@ -1,7 +1,7 @@
 ﻿using System;
 using LinqKit;
 
-namespace Spec4Net.Criterion
+namespace Specifications4Net.Criterion
 {
     public class LogicalCriterion : AbstractCriterion
     {

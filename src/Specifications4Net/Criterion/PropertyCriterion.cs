@@ -1,4 +1,4 @@
-﻿namespace Spec4Net.Criterion
+﻿namespace Specifications4Net.Criterion
 {
     public class PropertyCriterion : ICriterion
     {

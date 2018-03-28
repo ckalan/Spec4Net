@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Spec4Net.Criterion
+namespace Specifications4Net.Criterion
 {
     public class SimpleCriterion : AbstractCriterion
     {

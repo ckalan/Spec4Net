@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace Spec4Net
+namespace Specifications4Net
 {
     public class Specification<T> : AbstractSpecification<T>
     {

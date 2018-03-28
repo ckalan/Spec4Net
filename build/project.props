@@ -8,8 +8,8 @@
 
   <PropertyGroup Label="Package">
     <Authors>Cagatay Kalan @ckalan</Authors>
-    <PackageProjectUrl>https://github.com/ckalan/Spec4Net/</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/ckalan/Spec4Net/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ckalan/Specifications4Net/</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/ckalan/Specifications4Net/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>

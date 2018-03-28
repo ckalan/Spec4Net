@@ -1,8 +1,8 @@
 ﻿using System;
-using Spec4Net.Criterion;
+using Specifications4Net.Criterion;
 using Xunit;
 
-namespace Spec4Net.Test.Filter
+namespace Specifications4Net.Test.Filter
 {
     public class SimpleCriterionTest
     {

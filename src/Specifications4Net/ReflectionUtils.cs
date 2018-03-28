@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Spec4Net
+namespace Specifications4Net
 {
     public static class ReflectionUtils
     {

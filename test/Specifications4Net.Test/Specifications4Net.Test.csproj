@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Spec4Net\Spec4Net.csproj" />
+    <ProjectReference Include="..\..\src\Specifications4Net\Specifications4Net.csproj" />
   </ItemGroup>
 
 </Project>

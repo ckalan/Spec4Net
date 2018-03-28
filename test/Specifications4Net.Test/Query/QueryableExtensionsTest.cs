@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Spec4Net.Query;
+using Specifications4Net.Query;
 using Xunit;
 
-namespace Spec4Net.Test.Query
+namespace Specifications4Net.Test.Query
 {
     public class QueryableExtensionsTest
     {

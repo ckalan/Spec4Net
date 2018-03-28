@@ -3,7 +3,7 @@ using System.Linq;
 using LinqKit;
 using Xunit;
 
-namespace Spec4Net.Test
+namespace Specifications4Net.Test
 {
     
     public class SpecificationTest

@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using LinqKit;
 
-namespace Spec4Net
+namespace Specifications4Net
 {
     public abstract class AbstractSpecification<T> : ISpecification<T>
     {

@@ -1,4 +1,4 @@
-﻿namespace Spec4Net
+﻿namespace Specifications4Net
 {
     public interface ISpecificationBuilder<T>
     {

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Spec4Net.Query
+namespace Specifications4Net.Query
 {
     public static class QueryableExtensions
     {

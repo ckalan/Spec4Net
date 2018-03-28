@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spec4Net", "src\Spec4Net\Spec4Net.csproj", "{7ACC3895-FA7E-43E1-8093-A57CA664987F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Specifications4Net", "src\Specifications4Net\Specifications4Net.csproj", "{7ACC3895-FA7E-43E1-8093-A57CA664987F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spec4Net.Test", "test\Spec4Net.Test\Spec4Net.Test.csproj", "{1CC44A27-E03F-4F37-BECA-32580CC8913A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Specifications4Net.Test", "test\Specifications4Net.Test\Specifications4Net.Test.csproj", "{1CC44A27-E03F-4F37-BECA-32580CC8913A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{04C6C652-273F-4E0F-AABB-F66AB5FE5C71}"
 EndProject
