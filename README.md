@@ -1,8 +1,7 @@
 # SpecificationsForNet
 Specification Pattern Implementation for .Net Core using LinqKit with additional NHibernate like dynamic Criteria features
 
-## Specification Example
-
+## Specifications
 
 ```c#
 public class User
@@ -48,6 +47,14 @@ public IEnumerable<User> GetUsers()
 
 }
     
+```
+
+**IQueryable.Filter()** method uses **Specification<T>.Expression** property which returns **Expression<Func<T,bool>**. 
+
+You can also use the **Specification<T>.Predicate** property to run the specification on an object instead of an IQueryable.
+    
+```c#
+bool isOver18 = new FindUsersOverAgeSpec(18).Predicate(user);
 ```
 
 
