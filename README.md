@@ -27,7 +27,7 @@ public class FindUsersOverAgeSpec : Specification<User>
 /// <summary>
 /// Some method that filters the IQueryable with specifications and applies dynamic order
 /// </summary>
-public IEnumerable<User> GetUsers(UserFilterModel model)
+public IEnumerable<User> GetUsers()
 {
 
     ISpecification<User> spec = new FindUsersOverAgeSpec(18);
